@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/siddhantsingh/Documents/OneDrive - Imperial College London/DoC Secret Revision Folder/First Year/C/sonnets (2020)/sonnets/trie.c
+trie.h
+/Users/siddhantsingh/Documents/OneDrive - Imperial College London/DoC Secret Revision Folder/First Year/C/sonnets (2020)/sonnets/trie.h
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+string.h
+-
+
+/Users/siddhantsingh/Documents/OneDrive - Imperial College London/DoC Secret Revision Folder/First Year/C/sonnets (2020)/sonnets/trie.h
+stdbool.h
+-
+stdint.h
+-
+

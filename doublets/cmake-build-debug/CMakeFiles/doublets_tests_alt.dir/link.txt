@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/doublets_tests_alt.dir/doublets.c.o CMakeFiles/doublets_tests_alt.dir/doublets_tests.c.o ../lib/dict_alt.o -o doublets_tests_alt  -Wl,-rpath,/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/lib ../lib/libcriterion.so 

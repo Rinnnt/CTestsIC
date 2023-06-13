@@ -1,0 +1,11 @@
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/doublets.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/doublets_alt.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/doublets_tests.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/doublets_tests_alt.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/dictionary_tests.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/run.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/run_alt.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/tests.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/tests_alt.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

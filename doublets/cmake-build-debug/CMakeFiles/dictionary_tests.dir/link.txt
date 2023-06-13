@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/dictionary_tests.dir/trie.c.o CMakeFiles/dictionary_tests.dir/doublets.c.o CMakeFiles/dictionary_tests.dir/trie_tests.c.o -o dictionary_tests  -Wl,-rpath,/homes/tk1622/Documents/computing_practical_1/c/PastCTests/doublets/lib ../lib/libcriterion.so 

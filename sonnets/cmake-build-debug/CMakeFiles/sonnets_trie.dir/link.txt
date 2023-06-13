@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sonnets_trie.dir/sonnets.c.o CMakeFiles/sonnets_trie.dir/trie.c.o CMakeFiles/sonnets_trie.dir/maps.c.o -o sonnets_trie 

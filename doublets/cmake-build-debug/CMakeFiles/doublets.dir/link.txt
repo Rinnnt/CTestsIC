@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/doublets.dir/main.c.o CMakeFiles/doublets.dir/doublets.c.o CMakeFiles/doublets.dir/trie.c.o -o doublets 

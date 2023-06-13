@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/doublets_alt.dir/main.c.o CMakeFiles/doublets_alt.dir/doublets.c.o ../lib/dict_alt.o -o doublets_alt 
